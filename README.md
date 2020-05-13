@@ -5,6 +5,7 @@ Keras implementation of Tamas Gabor Csapo, Kele Xu,
 **Requirements**
 
 - Python 3.6.9
+- ultrasuite-tools, https://github.com/UltraSuite/ultrasuite-tools
 - ...etc... see requirements.txt
 
 
