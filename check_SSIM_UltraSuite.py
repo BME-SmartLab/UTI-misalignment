@@ -7,7 +7,7 @@ resturctured for transducer misalignment detection May 13, 2020
 
 Keras implementation of 
 Tamas Gabor Csapo, Kele Xu,
-,,Transducer Misalignment Detection in Ultrasound Tongue Imaging'', submitted to Interspeech 2020.
+,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'', submitted to Interspeech 2020.
 -> this script is for measuring SSIM on the UltraSuite data
 '''
 
