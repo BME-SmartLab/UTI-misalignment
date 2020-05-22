@@ -2,20 +2,31 @@
 
 
 <table>
-	<th>
-		<td>MSE</td>
-		<td>SSIM</td>
-		<td>CW-SSIM</td>
-	</th>
+	<tr>
+		<th>MSE</th>
+		<th>SSIM</th>
+		<th>CW-SSIM</th>
+	</tr>
 	<tr>
 		<td>
-			<img src="figs/01M_MSE_matrix_color.png"  alt="1" width="320" height ="240" >
+			<img src="figs/01M_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
 		</td>
 		<td>
-			<img src="figs/01M_SSIM_matrix_color.png" alt="2" width="320" height ="240">
+			<img src="figs/01M_SSIM_matrix_color.png" alt="SSIM" width="267" height ="200">
 		</td>
 		<td>
-			<img src="figs/01M_CW_SSIM_matrix_color.png" alt="2" width="320" height ="240">
+			<img src="figs/01M_CW_SSIM_matrix_color.png" alt="CW-SSIM" width="267" height ="200">
+		</td>
+	</tr> 
+	<tr>
+		<td>
+			<img src="figs/02M_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
+		</td>
+		<td>
+			<img src="figs/02M_SSIM_matrix_color.png" alt="SSIM" width="267" height ="200">
+		</td>
+		<td>
+			<img src="figs/02M_CW_SSIM_matrix_color.png" alt="CW-SSIM" width="267" height ="200">
 		</td>
 	</tr> 
 </table>
