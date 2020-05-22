@@ -1,13 +1,13 @@
-# All figures for ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'' Interspeech 2020 paper
+# Table for ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'' Interspeech 2020 paper
 
 ## UltraSuite dataset
 
 <table border="1">
 <tr>
-   <th width="60"> <br/> speaker</th>
-   <th width="100">MSE <br/> mean (std)</th>
-   <th width="100">SSIM <br/> mean (std)</th>
-   <th width="100">CW-SSIM <br/> mean (std)</th>
+   <th width="90"> <br/> speaker</th>
+   <th width="130">MSE <br/> mean (std)</th>
+   <th width="130">SSIM <br/> mean (std)</th>
+   <th width="130">CW-SSIM <br/> mean (std)</th>
 </tr>
 
 <tr>
