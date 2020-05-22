@@ -11,6 +11,39 @@
 
 <tr>
     <td>
+        <img src="figs/01M_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
+    </td>
+    <td>
+        <img src="figs/01M_SSIM_matrix_color.png" alt="SSIM" width="267" height ="200">
+    </td>
+    <td>
+        <img src="figs/01M_CW_SSIM_matrix_color.png" alt="CW-SSIM" width="267" height ="200">
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="figs/02M_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
+    </td>
+    <td>
+        <img src="figs/02M_SSIM_matrix_color.png" alt="SSIM" width="267" height ="200">
+    </td>
+    <td>
+        <img src="figs/02M_CW_SSIM_matrix_color.png" alt="CW-SSIM" width="267" height ="200">
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="figs/03F_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
+    </td>
+    <td>
+        <img src="figs/03F_SSIM_matrix_color.png" alt="SSIM" width="267" height ="200">
+    </td>
+    <td>
+        <img src="figs/03F_CW_SSIM_matrix_color.png" alt="CW-SSIM" width="267" height ="200">
+    </td>
+</tr>
+<tr>
+    <td>
         <img src="figs/04M_MSE_matrix_color.png"  alt="MSE" width="267" height ="200" >
     </td>
     <td>
