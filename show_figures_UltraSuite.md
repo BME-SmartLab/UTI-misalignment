@@ -1,5 +1,6 @@
 # All figures for ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'' Interspeech 2020 paper
 
+## UltraSuite dataset
 
 <table>
 <tr>
