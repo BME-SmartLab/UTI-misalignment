@@ -82,6 +82,9 @@ def calc_and_plot_MSE(dir_ult):
         Angle = 0.025
         FramesPerSec = 120.0 
         
+        # check metadata on first file
+        basefile = files_ult['all'][0]
+        
         # UltraSuite database: metadata is in *.PARAM file
         if os.path.isfile(os.path.join(dir_ult, basefile + '.param')):
             (NumVectors, PixPerVector, ZeroOffset, Angle, FramesPerSec) = \
