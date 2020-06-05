@@ -5,7 +5,7 @@ restructured for ultrasound Feb 4, 2020
 restructured for inversion/UltraSuite April, 2020
 resturctured for transducer misalignment detection May 13, 2020
 
-Keras implementation of 
+Python implementation of 
 Tamas Gabor Csapo, Kele Xu,
 ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'', submitted to Interspeech 2020.
 -> this script is for measuring CW-SSIM on the UltraSuite data
