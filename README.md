@@ -1,8 +1,8 @@
 # UTI-misalignment
 Python implementation of 
 
-- Tamás Gábor Csapó, Kele Xu, ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'', submitted to Interspeech 2020.
-- Tamás Gábor Csapó, Kele Xu, Andrea Deme, Tekla Etelka Gráczi, Alexandra Markó, ,,Transducer Misalignment in Ultrasound Tongue Imaging'', submitted to Interspeech 2020, Show & Tell.
+- Tamás Gábor Csapó, Kele Xu, ,,Quantification of Transducer Misalignment in Ultrasound Tongue Imaging'', accepted at Interspeech 2020, [arXiv:2008.02470](https://arxiv.org/abs/2008.02470)
+- Tamás Gábor Csapó, Kele Xu, Andrea Deme, Tekla Etelka Gráczi, Alexandra Markó, ,,Transducer Misalignment in Ultrasound Tongue Imaging'', submitted to ISSP 2020.
 
 **Requirements**
 
@@ -10,14 +10,14 @@ Python implementation of
 - ultrasuite-tools, https://github.com/UltraSuite/ultrasuite-tools
 - ...etc... see requirements.txt
 
-**Supplementary material for the regular paper**
+**Supplementary material for the Interspeech regular paper**
 
-- [all MSE, SSIM, CW-SSIM figures (Ultrasuite dataset)](show_figures_UltraSuite.md)
+- [all MSE, SSIM, CW-SSIM figures (UltraSuite dataset)](show_figures_UltraSuite.md)
 - [all MSE, SSIM, CW-SSIM figures (Hungarian children dataset)](show_figures_Hungarian_children.md)
-- [all MSE, SSIM, CW-SSIM descriptive statistics (Ultrasuite dataset)](show_table_UltraSuite.md)
+- [all MSE, SSIM, CW-SSIM descriptive statistics (UltraSuite dataset)](show_table_UltraSuite.md)
 - [all MSE, SSIM, CW-SSIM descriptive statistics (Hungarian children dataset)](show_table_Hungarian_children.md)
 
-**Tool for the Show & Tell paper**
+**Tool for the Interspeech / ISSP paper**
 
 ```
 python3 check_MSE_tool.py
